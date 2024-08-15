@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @User88in
-- 👀 I’m interested in ... WORKING on Java
-- 🌱 I’m currently learning ...Java DSA
-- 💞️ I’m looking to collaborate on ...
-  
+- 👋 Hi, I’m G.vinod
+- 👀 I’m familiar with Java
+- 🌱 I’m currently learning ...Java DSA  
 - 📫 How to reach me ...
 
 <!---
