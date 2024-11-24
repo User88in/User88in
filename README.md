@@ -1,5 +1,5 @@
 - 👋 Hi, I’m G.vinod
-- 👀 I’m familiar with Java
+-  I’m familiar with Java
 - 🌱 I’m currently learning ...Java DSA  
 - 📫 How to reach me ...
 
